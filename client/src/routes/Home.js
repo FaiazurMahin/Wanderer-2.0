@@ -2,6 +2,7 @@ import Hero from "../Components/Hero";
 import Navbar from "../Components/Navbar";
 // import video from "../../Assets"
 // faiaz testing
+//test
 function Home() {
   return (
     <>
