@@ -1,7 +1,7 @@
 import Hero from "../Components/Hero";
 import Navbar from "../Components/Navbar";
 // import video from "../../Assets"
-
+// faiaz testing
 function Home() {
   return (
     <>
@@ -13,7 +13,7 @@ function Home() {
         text="Choose your destination"
         buttonText="Travel plans"
         url="/"
-        btnClass="show"
+        btnClass="show" 
       />
     </>
   );
